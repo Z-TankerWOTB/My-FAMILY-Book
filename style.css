@@ -1,0 +1,13 @@
+body {
+color: darkturquoise;
+background-color: mediumseagreen;
+}
+#butt_next{
+    color: orangered;
+    width: 70px;
+    height: 55px;
+    background-color: royalblue;
+}
+#show_names{
+    color: crimson;
+}
